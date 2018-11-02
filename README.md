@@ -14,3 +14,5 @@ Left Click: Fire Weapon R : Reload Weapon
 -MISC-
 
 ESC - Exit the game Backspace - Restart Level
+
+*Game is pretty broken right now
